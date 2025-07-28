@@ -9,7 +9,7 @@ from langchain_community.document_loaders import SeleniumURLLoader
 from langchain_community.vectorstores import FAISS
 
 # --- Configuration ---
-GOOGLE_API_KEY = "AIzaSyAfSCBE7ToBFuqpH0Myf8suALB0n5bE7X8"
+GOOGLE_API_KEY = "YOUR-GOOGLE-API-KEY
 MODEL_NAME = "gemini-1.5-flash"
 VECTORSTORE_DIR = "faiss_store_gemini"
 
