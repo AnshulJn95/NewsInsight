@@ -1,20 +1,11 @@
-# Core LLM & LangChain components
 langchain==0.0.284
 openai==0.28.0
 faiss-cpu==1.7.4
-
-# Google Generative AI (Gemini) support
 langchain-google-genai==0.0.6
-
-# URL scraping & content extraction
 unstructured==0.9.2
 libmagic==1.0
 python-magic==0.4.27
 python-magic-bin==0.4.14  # Required on Windows; safely ignored on Linux/Mac
-
-# App UI
 streamlit==1.22.0
-
-# Utility
 tiktoken==0.4.0
 python-dotenv==1.0.0
